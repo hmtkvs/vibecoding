@@ -22,6 +22,13 @@ This repository contains a growing collection of articles on various aspects of 
 - **Emotional Intelligence**: Handling frustration, impostor syndrome, and burnout
 - **Intuitive Coding**: Using intuition and pattern recognition to guide development
 
+## Practical Guides
+
+We also provide practical guides to help you apply vibe coding principles to real-world development:
+
+- **[PRD Guide](prd-guide.md)**: A comprehensive guide to creating effective Product Requirements Documents with AI assistance
+- **[Full Stack Security Guide](full-stack-security-guide.md)**: Essential security practices for beginner programmers building full stack applications
+
 ## Contributing
 
 This is a living repository! We welcome contributions from the community:
