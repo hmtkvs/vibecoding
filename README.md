@@ -28,6 +28,19 @@ We also provide practical guides to help you apply vibe coding principles to rea
 
 - **[PRD Guide](prd-guide.md)**: A comprehensive guide to creating effective Product Requirements Documents with AI assistance
 - **[Full Stack Security Guide](full-stack-security-guide.md)**: Essential security practices for beginner programmers building full stack applications
+- **[Development Environments](development-environments.md)**: Understanding the differences between dev, staging, and production environments
+- **[Infrastructure Maintenance](infrastructure-maintenance.md)**: Keeping your traditional and cloud infrastructure healthy and vibrant
+
+### System Documentation Guides
+
+Mindful approaches to documenting your technical ecosystem:
+
+- **[System Architecture Documentation](system-architecture-guide.md)**: Mapping your code universe with clarity and purpose
+- **[Runbooks](runbooks-guide.md)**: Creating operational flow through clear step-by-step procedures
+- **[Incident Response Plans](incident-response-guide.md)**: Finding calm in the chaos during outages and emergencies
+- **[Change Logs](change-logs-guide.md)**: Chronicling the living history of your code's evolution
+- **[Recovery Procedures](recovery-procedures-guide.md)**: Building paths back to harmony after disruptions
+- **[Vendor Contacts](vendor-contacts-guide.md)**: Nurturing relationships with your technical ecosystem partners
 
 ## Contributing
 

@@ -122,3 +122,7 @@ Regularly test your application using:
 Remember that security is an ongoing process, not a one-time implementation. Stay informed about new vulnerabilities and continuously improve your security practices.
 
 By following this structured approach, you'll create more secure applications and be better prepared to handle potential security threats.
+
+## Document Versions
+
+The latest version of this guide will always be available on our GitHub repository. Original versions of all VibeCoding guides are also posted to X.com as they are released. Check both platforms to ensure you're seeing the most up-to-date information and to track how these guides evolve over time.

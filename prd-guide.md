@@ -176,6 +176,10 @@ Map out how your product will come to life:
 
 Keep those good vibes going—with well-defined products! ✌️
 
+## Document Versions
+
+The latest version of this guide will always be available on our GitHub repository. Original versions of all VibeCoding guides are also posted to X.com as they are released. Check both platforms to ensure you're seeing the most up-to-date information and to track how these guides evolve over time.
+
 ## Template for your prd.md file
 
 I've created a comprehensive markdown template you can use as your starting point. Copy this into your own prd.md file and fill in your project details:
